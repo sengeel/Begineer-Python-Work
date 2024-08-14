@@ -1,0 +1,8 @@
+{
+    "username": "john_doe",
+    "email": "john@example.com",
+    "joined": "2021-01-01T00:00:00"
+}{
+    "x-axis": 1,
+    "y-axis": 2
+}
